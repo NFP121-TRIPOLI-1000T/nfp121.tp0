@@ -17,6 +17,7 @@ public class A
     {
         // initialisation des variables d'instance
         x = 0;
+        y=4;//just for push request
     }
 
     /**
